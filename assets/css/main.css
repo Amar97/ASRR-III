@@ -2994,7 +2994,7 @@
 
 	#banner {
 		position: relative;
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/logobannertall.jpg");
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -3071,7 +3071,7 @@
 			width: 100%;
 			height: 100%;
 			background-color: #323a47;
-			opacity: 0.65;
+			opacity: 0;
 		}
 
 		#banner footer {
