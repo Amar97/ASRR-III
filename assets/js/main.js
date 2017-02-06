@@ -114,6 +114,9 @@
 				);
 			});
 
+        // Scrolly links.
+        $('.scrolly').scrolly();
+
 		// Body.
 			$body._parallax(-0.7);
 
