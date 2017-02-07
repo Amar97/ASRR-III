@@ -2,27 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70aace7e-b346-48fa-a271-b1f6694dd97f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/meeting.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/people-coffee-tea-meeting.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pexels-photo-225502.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pexels-photo-64778.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pic01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pic02.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pic04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/thumbs/03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/thumbs/04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/thumbs/05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/thumbs/06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/thumbs/07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/thumbs/08.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logobannertall.jpg" afterPath="$PROJECT_DIR$/images/logobannertall.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pic01wide.jpg" afterPath="$PROJECT_DIR$/images/pic01wide.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pic02wide.jpg" afterPath="$PROJECT_DIR$/images/pic02wide.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pic03.jpg" afterPath="$PROJECT_DIR$/images/pic03.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/images/bg.jpg" afterPath="$PROJECT_DIR$/portfolio/images/bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/images/thumbs/01.jpg" afterPath="$PROJECT_DIR$/portfolio/images/thumbs/01.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/old/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/old/pic01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/old/pic02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/old/pic02.jpg~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/fulls/01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/fulls/02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/fulls/03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/fulls/04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/fulls/05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/fulls/06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/fulls/07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio/images/fulls/08.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,15 +33,25 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="282">
-              <caret line="200" column="32" lean-forward="true" selection-start-line="200" selection-start-column="32" selection-end-line="200" selection-end-column="32" />
+              <caret line="200" column="32" lean-forward="false" selection-start-line="200" selection-start-column="32" selection-end-line="200" selection-end-column="32" />
               <folding>
                 <element signature="e#9040#9046#0" expanded="true" />
                 <element signature="n#script#5;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -143,6 +146,7 @@
         <option value="$PROJECT_DIR$/assets/js/main.js" />
         <option value="$PROJECT_DIR$/portfolio/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -363,7 +367,7 @@
       <workItem from="1486418978600" duration="2547000" />
       <workItem from="1486421617675" duration="573000" />
       <workItem from="1486422345594" duration="2080000" />
-      <workItem from="1486433757897" duration="2000" />
+      <workItem from="1486433757897" duration="181000" />
     </task>
     <task id="LOCAL-00001" summary="large text update and references change&#10;">
       <created>1486177020778</created>
@@ -414,11 +418,18 @@
       <option name="project" value="LOCAL" />
       <updated>1486423206251</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="small bugfixes">
+      <created>1486433769848</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1486433769848</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12294000" />
+    <option name="totallyTimeSpent" value="12473000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
@@ -897,11 +908,19 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
-          <caret line="200" column="32" lean-forward="true" selection-start-line="200" selection-start-column="32" selection-end-line="200" selection-end-column="32" />
+          <caret line="200" column="32" lean-forward="false" selection-start-line="200" selection-start-column="32" selection-end-line="200" selection-end-column="32" />
           <folding>
             <element signature="e#9040#9046#0" expanded="true" />
             <element signature="n#script#5;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
